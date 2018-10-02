@@ -1,5 +1,6 @@
 set shell = createobject ("wscript.shell")
 
+strtext = inputbox (" its always 420 s0mewhere...coded by r0otz-ee ")
 strtext = inputbox (" The message of choice ")
 strtimes = inputbox ("How many times?")
 strspeed = inputbox ("How fast? (1000 = one per sec, 100 = 10 per sec etc)")
